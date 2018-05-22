@@ -1,0 +1,56 @@
+.portfolio .portfolio-item {
+    max-width: 100%!important;
+}
+
+#slide-header .slick-dots {
+    list-style: none;
+    width: 20%;
+    margin-left: 40%;
+}
+
+#slide-header .slick-dots li {
+    float: left;
+    margin-right: 15px;
+}
+
+#slide-header .slick-dots>li>button {
+    border: none;
+    background: url(../img/profile.png) transparent;
+    padding-left: 45px;
+    padding-top: 40px;
+    background-repeat: no-repeat;
+    background-size: 45px 40px;
+    font-size: 0;
+    margin-top: 35px;
+}
+
+#slide-header .slick-prev,
+#slide-header .slick-next {
+    display: none!important;
+}
+
+#product .slick-prev,
+#product .slick-next {
+    position: absolute;
+    top: 45%;
+    font-size: 25px;
+    background: #2c3e50;
+    color: white;
+    border: none;
+    z-index: 1090;
+    cursor: pointer;
+    width: 35px;
+    z-index: 100;
+}
+
+#product .slick-prev {
+    left: 0;
+}
+
+#product .slick-next {
+    right: 0;
+}
+
+#product .slick-dots {
+    display: none!important;
+}

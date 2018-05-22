@@ -1,0 +1,40 @@
+header.masthead {
+    padding-top: calc(6rem + 8px)!important;
+}
+
+/*header bg */
+.w1 {
+    width: 100%;
+}
+
+.header-t {
+    position: relative;
+    background-image: url(../img/w5.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.text-head {
+    padding: 40px 25%;
+}
+
+.text-info {
+    padding: 25px 20%;
+}
+
+/*info */
+.ins {
+    margin-left: 25%;
+}
+
+#product .slick-prev {
+    left: -25px;
+}
+
+#product .slick-next {
+    right: -25px;
+}
+
+.icon-size {
+    font-size: 25px;
+}

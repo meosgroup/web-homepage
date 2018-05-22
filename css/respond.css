@@ -1,0 +1,32 @@
+@media all and (max-width: 992px) {
+    header.masthead {
+        padding-top: calc(6rem + -18px)!important;
+    }
+    .web-main {
+        height: 200px;
+    }
+    
+    .img-re {
+        margin-left: 14%;
+    }
+    iframe {
+        width: 300px!important;
+    }
+    
+    #slide-header .slick-dots {
+        width: 100%;
+        margin-left: 20%;
+    }
+    
+    #product .slick-prev {
+        left: 0px;
+    }
+    
+    #product .slick-next {
+        right: 0px;
+    }
+    
+    .text-info, .header-t {
+        display: none;
+    }
+}

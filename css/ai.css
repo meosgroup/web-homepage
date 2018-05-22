@@ -1,0 +1,53 @@
+header.masthead {
+    padding-top: calc(6rem + 8px)!important;
+    padding-bottom: 0!important;
+}
+
+/*header bg */
+.w1 {
+    width: 100%;
+}
+
+.header-t {
+    position: relative;
+    background-image: url(../img/w5.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.web-main {
+    position: relative;
+    background-image: url(../img/machine-learning-banner.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.text-head {
+    padding: 40px 25%;
+}
+
+.text-info1 {
+    padding: 14% 20%;
+    top: 35%;
+    font-family: Montserrat!important;
+}
+header.masthead h2 {
+    font-family: Montserrat!important;
+}
+/*info */
+.ins {
+    margin-left: 25%;
+}
+
+#product .slick-prev {
+    left: -25px;
+}
+
+#product .slick-next {
+    right: -25px;
+}
+
+.icon-size {
+    font-size: 25px;
+}
