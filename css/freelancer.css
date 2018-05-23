@@ -1,5 +1,6 @@
 body {
-  font-family: 'Lato';
+  /* font-family: 'Lato'; */
+  font-family: 'Roboto', sans-serif;
 }
 
 h1,
@@ -9,7 +10,8 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat';
+  /* font-family: 'Montserrat'; */
+  font-family: 'Roboto', sans-serif;
 }
 
 hr.star-light,
@@ -177,7 +179,8 @@ header.masthead h1 {
 
 header.masthead h2 {
   font-size: 1.3rem;
-  font-family: 'Lato';
+  /* font-family: 'Lato'; */
+  font-family: 'Roboto', sans-serif
 }
 
 @media (min-width: 992px) {
