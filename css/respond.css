@@ -10,7 +10,7 @@
         margin-left: 14%;
     }
     iframe {
-        width: 300px!important;
+        width: 325px!important;
     }
     
     #slide-header .slick-dots {
@@ -29,4 +29,9 @@
     .text-info, .header-t {
         display: none;
     }
+    section h2 {
+        font-size: 2rem!important;
+    }
 }
+
+
